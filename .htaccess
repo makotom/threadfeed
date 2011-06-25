@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^([[:alnum:]]+)/([[:alnum:]]+)/([[:alnum:]]+)(/([[:digit:]]+))?$ thfload.php?s=$1\&k=$2\&f=$3\&n=$5
+
+php_value display_errors Off
+php_value date.timezone "Asia/Tokyo"
