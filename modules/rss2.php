@@ -1,7 +1,7 @@
 <?php
 /*
 Threadfeed - Feed threads on 2ch BBS
-Copyright (C) 2010 Makoto Mizukami.
+Copyright (C) 2010-2011 Makoto Mizukami.
 http://threadfeed.www1.biz/
 */
 
